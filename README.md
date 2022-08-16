@@ -15,3 +15,9 @@ flowchart TD
 	A[Overview-Project1] --> D{Project4}
 	A[Overview-Project1] --> E{Project5}
 ```
+
+## Branching Strategy for each project
+ 1. Project2: Main, hotfix and developer
+ 2. Project3: Main, hotfix and developer
+ 3. Project4: Main, hotfix and developer
+ 4. Project5: Main, hotfix and developer
