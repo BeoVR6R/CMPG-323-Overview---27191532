@@ -8,7 +8,7 @@
  4. CMPG323-Project5-27191532-Power_BI_Reporting
 
  ## Project and Repository context
-```
+```mermaid
 journey
 	title Me studying for exams
 	section Exam is announced
