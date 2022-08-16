@@ -17,16 +17,19 @@ flowchart TD
 ```
 
 ## Branching Strategy for each project
- 1. Project2: Main, hotfix and developer
- 2. Project3: Main, hotfix and developer
- 3. Project4: Main, hotfix and developer
- 4. Project5: Main, hotfix and developer
+ 1. Project1: Main
+ 2. Project2: Main, hotfix and developer
+ 3. Project3: Main, hotfix and developer
+ 4. Project4: Main, hotfix and developer
+ 5. Project5: Main, hotfix and developer
 
  ## Gitignore files in each project
-  1. gerw
-  2. esf
-  3. df
-  4. wegf
+  1. .txt file containing random thougts on the project overview.
+  2. All .txt files with sensitive information to keep them local.
+  3. All .txt files with sensitive information to keep them local.
+  4. All .txt files with sensitive information to keep them local.
+  5. All .txt files with sensitive information to keep them local.
 
   ## Storage for credentials and sensitive information
-  Each file that contains sensitive information will be added to the .gitignore list.
+  a .txt will be created that holds all sensitive information, this file will only be stored locally.
+  All .txt files that contains sensitive information will be added to the .gitignore list.
