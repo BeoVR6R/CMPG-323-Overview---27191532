@@ -24,7 +24,7 @@ flowchart TD
  5. Project5: Main, testing and developer
 
  ## Gitignore files in each project
-  1. .txt file containing random thougts on the project overview.
+  1. .txt file containing random thoughts on the project overview.
   2. All .txt files with sensitive information to keep them local.
   3. All .txt files with sensitive information to keep them local.
   4. All .txt files with sensitive information to keep them local.
