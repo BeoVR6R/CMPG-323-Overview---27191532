@@ -10,5 +10,5 @@
  ## Project and Repository context
 ```mermaid
 flowchart TD
-    A[CMPG-323-Overview---27191532] --> B{CMPG323-Project2-27191532-Azure/.NETcore3.1}
+    A[Overview] --> B{Project2}
 ```
