@@ -21,3 +21,12 @@ flowchart TD
  2. Project3: Main, hotfix and developer
  3. Project4: Main, hotfix and developer
  4. Project5: Main, hotfix and developer
+
+ ## Gitignore files in each project
+  1. gerw
+  2. esf
+  3. df
+  4. wegf
+
+  ## Storage for credentials and sensitive information
+  Each file that contains sensitive information will be added to the .gitignore list.
