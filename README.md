@@ -8,7 +8,7 @@
  4. CMPG323-Project5-27191532-Power_BI_Reporting
 
  ## Project and Repository context
-  ```
+```
 journey
 	title Me studying for exams
 	section Exam is announced
@@ -22,4 +22,4 @@ journey
 	section Result Declared
 		I passed the exam with destinction!: 5: Me
 		Friend barely gets passing marks: 2: Friend
-```
+```mermaid
