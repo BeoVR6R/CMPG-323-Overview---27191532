@@ -18,10 +18,10 @@ flowchart TD
 
 ## Branching Strategy for each project
  1. Project1: Main
- 2. Project2: Main, hotfix and developer
- 3. Project3: Main, hotfix and developer
- 4. Project4: Main, hotfix and developer
- 5. Project5: Main, hotfix and developer
+ 2. Project2: Main, testing and developer
+ 3. Project3: Main, testing and developer
+ 4. Project4: Main, testing and developer
+ 5. Project5: Main, testing and developer
 
  ## Gitignore files in each project
   1. .txt file containing random thougts on the project overview.
