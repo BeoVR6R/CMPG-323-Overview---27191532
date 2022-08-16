@@ -2,6 +2,9 @@
  CMPG323 Planning for 2022
 
  ## Github repositories used for the semester
+
+ Will be linked in future release patches.
+
  1. CMPG323-Project2-27191532-Azure/.NETcore3.1 
  2. CMPG323-Project3-27191532-.NETcore3.1
  3. CMPG323-Project4-27191532-UiPath
