@@ -3,9 +3,7 @@
 
  ## Github repositories used for the semester
 
- Will be linked in future release patches.
-
- 1. CMPG323-Project2-27191532-Azure/.NETcore3.1 
+ 1. <a href="https://github.com/BeoVR6R/CMPG323-Project2-27191532-Azure-.NETcore3.1" target="_blank">CMPG323-Project2-27191532-Azure/.NETcore3.1</a> 
  2. CMPG323-Project3-27191532-.NETcore3.1
  3. CMPG323-Project4-27191532-UiPath
  4. CMPG323-Project5-27191532-Power_BI_Reporting
